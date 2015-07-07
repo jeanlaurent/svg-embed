@@ -1,1 +1,1 @@
-<img src="https://github.com/jeanlaurent/svg-embed/blob/master/kiwi.svg">
+<img src="https://raw.githubusercontent.com/jeanlaurent/svg-embed/master/kiwi.svg">
