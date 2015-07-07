@@ -1,1 +1,1 @@
-# svg-embed
+<img src="kiwi.svg">
