@@ -1,3 +1,5 @@
+<div id="replace">Coucou</div>
+
 Embed an svg in an `<img>` tag by:
 
 1. Create a gh-pages branch
@@ -5,3 +7,7 @@ Embed an svg in an `<img>` tag by:
 
 <img src="http://jeanlaurent.github.io/svg-embed/kiwi.svg">
 
+<script>
+  var div = document.getElementById("replace")
+  div.innerHTML= 'oh Yeah'
+</script>
