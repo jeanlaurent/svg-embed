@@ -1,4 +1,4 @@
-<div id="replace">Coucou</div>
+
 
 Embed an svg in an `<img>` tag by:
 
@@ -7,6 +7,7 @@ Embed an svg in an `<img>` tag by:
 
 <img src="http://jeanlaurent.github.io/svg-embed/kiwi.svg">
 
+<div id="replace">Coucou</div>
 <script>
   var div = document.getElementById("replace")
   div.innerHTML= 'oh Yeah'
